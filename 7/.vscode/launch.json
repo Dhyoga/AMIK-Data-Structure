@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ADRemoveIf",
+            "request": "launch",
+            "mainClass": "ADRemoveIf",
+            "projectName": "7_1da3b1a1"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccesElmArrayDeque",
+            "request": "launch",
+            "mainClass": "AccesElmArrayDeque",
+            "projectName": "7_1da3b1a1"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddElmToArrayDeque",
+            "request": "launch",
+            "mainClass": "AddElmToArrayDeque",
+            "projectName": "7_1da3b1a1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDequeDemo",
+            "request": "launch",
+            "mainClass": "ArrayDequeDemo",
+            "projectName": "7_1da3b1a1"
+        },
+        {
+            "type": "java",
+            "name": "Launch IterateArrayDeque",
+            "request": "launch",
+            "mainClass": "IterateArrayDeque",
+            "projectName": "7_1da3b1a1"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveElmArrayDeque",
+            "request": "launch",
+            "mainClass": "RemoveElmArrayDeque",
+            "projectName": "7_1da3b1a1"
+        }
+    ]
+}
